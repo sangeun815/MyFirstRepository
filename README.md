@@ -1,8 +1,7 @@
-# MyFirstRepository
-## 중간제목
-[sangeun815](https://github.com/sangeun815)
+# 19173014 민상은
 
-###작은제목
-Hello my name is HanGyeol
+##1주차 과제
 
-<img width=""height=""src="./png/2주차과제.png"></img>
+##2주차 과제
+
+##3주차 과제
