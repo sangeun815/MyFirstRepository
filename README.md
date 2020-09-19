@@ -1,6 +1,7 @@
 # 19173014 민상은
 
 ##1주차 과제
+quiz
 
 ##2주차 과제
 <img width="" height="" src="./png/2주차.png"></img>
