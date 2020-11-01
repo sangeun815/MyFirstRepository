@@ -24,6 +24,6 @@ quiz
 <img width="" height="" src="./png/7주차 과제2.png"></img>
 
 ## 9주차 과제
-<img width="" height="" src="./png/9주차 이미지바꾸기.png"></img>
-<img width="" height="" src="./png/9주차 넚이.png"></img>
-<img width="" height="" src="./png/9주차 높이.png"></img>
+<img width="" height="" src="./png/9주차 이미지 바꾸기"></img>
+<img width="" height="" src="./png/9주차 넚이"></img>
+<img width="" height="" src="./png/9주차 높이"></img>
